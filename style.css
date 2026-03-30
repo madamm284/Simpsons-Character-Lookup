@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: url("springfield.png");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+   margin: 0;
+  height: 100vh; /* Full screen height */
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  align-items: center; /* Horizontal center */
+  justify-content: flex-start; /* Vertical center */
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+h1{
+
+color: aliceblue;
+}
+
+p{
+    color: white;
+}
